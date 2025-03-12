@@ -1,0 +1,3456 @@
+{
+    "nouns": [
+        "I'm",
+        "Hello!",
+        "Hi,",
+        "Hey,",
+        "Good",
+        "Pretty",
+        "You?",
+        "Not",
+        "Could",
+        "And",
+        "What",
+        "How",
+        "How's",
+        "All",
+        "Never",
+        "I've",
+        "Just",
+        "Nice",
+        "Glad",
+        "That's",
+        "Take",
+        "Have",
+        "I'll",
+        "I",
+        "Hi!",
+        "Hey!",
+        "Run",
+        "No",
+        "Hello,",
+        "The",
+        "Do",
+        "What's",
+        "I'd",
+        "My",
+        "Alex.",
+        "Any",
+        "It's",
+        "Where",
+        "New",
+        "York.",
+        "Yes,",
+        "Whiskers.",
+        "She's",
+        "They",
+        "Did",
+        "It",
+        "Would",
+        "Sure!",
+        "Can",
+        "Absolutely!",
+        "Are",
+        "Yeah,",
+        "Sure,",
+        "Let's",
+        "Why",
+        "Because",
+        "You",
+        "French",
+        "PM.",
+        "There's",
+        "Yes!",
+        "Somewhere",
+        "Japan",
+        "They're",
+        "Music",
+        "Halloween!",
+        "Hello",
+        "Please"
+    ],
+    "verbs": [
+        "tired",
+        "Doing",
+        "feeling",
+        "doing",
+        "hanging",
+        "nothing",
+        "jumped",
+        "going",
+        "working",
+        "managed",
+        "connecting",
+        "reading",
+        "experimenting",
+        "playing",
+        "listening",
+        "need",
+        "planning",
+        "exciting",
+        "relaxing",
+        "named",
+        "curling",
+        "trying",
+        "watching",
+        "fascinating",
+        "engaged",
+        "giving",
+        "anything",
+        "interesting",
+        "writing",
+        "building",
+        "struggling",
+        "debating",
+        "thinking",
+        "grabbing",
+        "something",
+        "coding",
+        "morning",
+        "looking",
+        "making",
+        "loved",
+        "learning",
+        "tried",
+        "hiking"
+    ],
+    "adjectives": [
+        "good,",
+        "you?",
+        "today",
+        "bored,",
+        "could",
+        "you",
+        "tell",
+        "me",
+        "a",
+        "story?",
+        "how",
+        "are",
+        "what's",
+        "up?",
+        "morning!",
+        "afternoon!",
+        "evening!",
+        "thanks!",
+        "fine,",
+        "about",
+        "great,",
+        "alright,",
+        "good!",
+        "happy",
+        "today.",
+        "little",
+        "tired.",
+        "fantastic!",
+        "too",
+        "bad.",
+        "be",
+        "better.",
+        "feeling?",
+        "your",
+        "day",
+        "going?",
+        "well!",
+        "great!",
+        "good",
+        "here!",
+        "better!",
+        "had",
+        "better",
+        "days.",
+        "worse.",
+        "great.",
+        "in",
+        "there.",
+        "to",
+        "hear!",
+        "you're",
+        "care!",
+        "great",
+        "day!",
+        "okay.",
+        "tired,",
+        "alright.",
+        "fantastic",
+        "happy,",
+        "stressed,",
+        "it's",
+        "can't",
+        "handle.",
+        "just",
+        "bit",
+        "okay,",
+        "what",
+        "fine.",
+        "thanks",
+        "for",
+        "asking.",
+        "asking!",
+        "not",
+        "bad,",
+        "today?",
+        "whats",
+        "up",
+        "thank",
+        "problem",
+        "alright",
+        "too.",
+        "glad",
+        "do",
+        "mean?",
+        "quick",
+        "brown",
+        "fox",
+        "over",
+        "the",
+        "fence",
+        "into",
+        "dirty",
+        "mud",
+        "know",
+        "is?",
+        "does",
+        "one",
+        "take",
+        "morning?",
+        "hope",
+        "has",
+        "been",
+        "well",
+        "so",
+        "far.",
+        "quite",
+        "well,",
+        "you!",
+        "on",
+        "few",
+        "projects",
+        "lately.",
+        "finish",
+        "some",
+        "work",
+        "earlier,",
+        "productive.",
+        "name?",
+        "love",
+        "more",
+        "you.",
+        "name",
+        "is",
+        "passionate",
+        "technology",
+        "creative",
+        "projects.",
+        "meet",
+        "always",
+        "enjoy",
+        "with",
+        "people",
+        "who",
+        "share",
+        "similar",
+        "interests.",
+        "like",
+        "free",
+        "time?",
+        "hobbies",
+        "special",
+        "interests?",
+        "mystery",
+        "novels,",
+        "new",
+        "recipes",
+        "kitchen,",
+        "sometimes",
+        "unwind",
+        "by",
+        "video",
+        "games.",
+        "kind",
+        "of",
+        "music",
+        "listen",
+        "when",
+        "relaxing?",
+        "jazz",
+        "rock",
+        "energy.",
+        "favorite",
+        "food?",
+        "lookout",
+        "try.",
+        "pizza",
+        "extra",
+        "toppings",
+        "homemade",
+        "pasta.",
+        "hard",
+        "beat",
+        "comfort",
+        "meal.",
+        "from?",
+        "hear",
+        "hometown.",
+        "from",
+        "city",
+        "never",
+        "sleeps,",
+        "full",
+        "life",
+        "excitement.",
+        "later",
+        "plans?",
+        "at",
+        "home",
+        "might",
+        "catch",
+        "start",
+        "movie.",
+        "have",
+        "any",
+        "pets?",
+        "them!",
+        "cat",
+        "my",
+        "keyboard",
+        "work.",
+        "shows",
+        "watching?",
+        "recommendations?",
+        "sci-fi",
+        "series.",
+        "characters",
+        "well-developed!",
+        "movie",
+        "genre?",
+        "film.",
+        "action",
+        "comedies!",
+        "keep",
+        "while",
+        "laugh.",
+        "was",
+        "far?",
+        "happen?",
+        "big",
+        "project",
+        "weeks.",
+        "on?",
+        "code",
+        "right",
+        "now.",
+        "part",
+        "larger",
+        "friends.",
+        "help",
+        "project?",
+        "lend",
+        "hand.",
+        "appreciate",
+        "that.",
+        "tricky",
+        "bugs.",
+        "explain",
+        "this",
+        "concept",
+        "simpler",
+        "terms?",
+        "understand",
+        "break",
+        "it",
+        "down",
+        "step",
+        "weather",
+        "area?",
+        "whether",
+        "go",
+        "walk.",
+        "sunny",
+        "warm",
+        "outside,",
+        "perfect",
+        "stroll",
+        "park.",
+        "hungry",
+        "now?",
+        "snack.",
+        "light",
+        "sandwich",
+        "fruit.",
+        "want",
+        "play",
+        "game?",
+        "competition.",
+        "sounds",
+        "fun!",
+        "game",
+        "mind?",
+        "walk",
+        "get",
+        "fresh",
+        "air.",
+        "clear",
+        "our",
+        "heads.",
+        "idea!",
+        "use",
+        "exercise",
+        "sunshine.",
+        "funny",
+        "joke?",
+        "laugh",
+        "don't",
+        "skeletons",
+        "fight",
+        "each",
+        "other?",
+        "they",
+        "guts!",
+        "color,",
+        "remind",
+        "special?",
+        "color",
+        "blue",
+        "reminds",
+        "skies",
+        "calm",
+        "ocean",
+        "waves.",
+        "okay?",
+        "seem",
+        "quieter",
+        "than",
+        "usual.",
+        "otherwise",
+        "good.",
+        "rest,",
+        "think.",
+        "main",
+        "goal",
+        "major",
+        "tasks",
+        "finish?",
+        "tonight",
+        "can",
+        "relax",
+        "weekend.",
+        "work?",
+        "pitch",
+        "in.",
+        "guidance",
+        "issue",
+        "stuck",
+        "on.",
+        "make",
+        "coffee?",
+        "method",
+        "prefer?",
+        "press",
+        "ground",
+        "coffee.",
+        "aroma",
+        "amazing!",
+        "time",
+        "wrap",
+        "things",
+        "soon.",
+        "3:00",
+        "still",
+        "plenty",
+        "done.",
+        "watch",
+        "last",
+        "night?",
+        "heard",
+        "intense!",
+        "final",
+        "incredible,",
+        "couldn't",
+        "believe",
+        "close",
+        "was.",
+        "dream",
+        "vacation",
+        "destination?",
+        "you'd",
+        "visit?",
+        "visit",
+        "someday.",
+        "culture",
+        "scenery",
+        "amazing.",
+        "cooking?",
+        "meal",
+        "ideas.",
+        "pasta",
+        "dishes",
+        "sauces.",
+        "busy",
+        "now",
+        "chat?",
+        "really,",
+        "up.",
+        "aliens?",
+        "documentaries.",
+        "think",
+        "possible!",
+        "universe",
+        "huge,",
+        "after",
+        "all.",
+        "math",
+        "problem?",
+        "stuck.",
+        "through",
+        "together.",
+        "animal?",
+        "different",
+        "creatures.",
+        "dogs!",
+        "loyal",
+        "ever",
+        "skydiving?",
+        "an",
+        "incredible",
+        "rush.",
+        "yet,",
+        "bucket",
+        "list",
+        "sure.",
+        "fun",
+        "weekends?",
+        "nature,",
+        "instruments?",
+        "such",
+        "way",
+        "relax.",
+        "guitar.",
+        "unwind.",
+        "holiday",
+        "why?",
+        "costumes,",
+        "decorations,",
+        "spooky",
+        "vibes",
+        "much",
+        "fun.",
+        "speak",
+        "sentences"
+    ],
+    "adverbs": [
+        "really",
+        "currently",
+        "friendly",
+        "usually",
+        "especially"
+    ],
+    "conjunctions": [
+        "and",
+        "but",
+        "because",
+        "or"
+    ],
+    "sentence_patterns": [
+        {
+            "structure": "[Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Verb] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Verb] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Conjunction] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Noun] [Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Noun] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective] [Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Verb] [Adjective] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adverb] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Verb] [Conjunction] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adverb] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Conjunction] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adverb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Noun] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        }
+    ],
+    "context_history": [
+        {
+            "structure": "[Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Verb] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Verb] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Conjunction] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Noun] [Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Noun] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective] [Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Verb] [Adjective] [Verb] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Verb] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adverb] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adverb] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Verb] [Adjective] [Adjective] [Verb] [Conjunction] [Adjective] [Adjective] [Noun] [Verb] [Adjective] [Adjective] [Noun] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adverb] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adverb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Conjunction] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Verb] [Verb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Verb] [Adjective] [Adjective] [Adverb] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Noun] [Adjective] [Adjective] [Adjective] [Noun] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Conjunction] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Noun] [Noun] [Adjective] [Adjective] [Conjunction] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Verb] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "[Noun] [Adjective] [Adjective] [Adjective] [Adjective]",
+            "context": []
+        },
+        {
+            "structure": "Hello! How are you feeling today? I hope your day has been going well so far.",
+            "context": [
+                "Hello!",
+                "How",
+                "are",
+                "you",
+                "feeling",
+                "today?",
+                "I",
+                "hope",
+                "your",
+                "day",
+                "has",
+                "been",
+                "going",
+                "well",
+                "so",
+                "far."
+            ]
+        },
+        {
+            "structure": "I'm doing quite well, thank you! I've been working on a few projects lately. How about you?",
+            "context": [
+                "I'm",
+                "doing",
+                "quite",
+                "well,",
+                "thank",
+                "you!",
+                "I've",
+                "been",
+                "working",
+                "on",
+                "a",
+                "few",
+                "projects",
+                "lately.",
+                "How",
+                "about",
+                "you?"
+            ]
+        },
+        {
+            "structure": "Not too bad, thanks for asking. I managed to finish some work earlier, so I'm feeling productive.",
+            "context": [
+                "Not",
+                "too",
+                "bad,",
+                "thanks",
+                "for",
+                "asking.",
+                "I",
+                "managed",
+                "to",
+                "finish",
+                "some",
+                "work",
+                "earlier,",
+                "so",
+                "I'm",
+                "feeling",
+                "productive."
+            ]
+        },
+        {
+            "structure": "What's your name? I'd love to know more about you.",
+            "context": [
+                "What's",
+                "your",
+                "name?",
+                "I'd",
+                "love",
+                "to",
+                "know",
+                "more",
+                "about",
+                "you."
+            ]
+        },
+        {
+            "structure": "My name is Alex. I'm really passionate about technology and creative projects.",
+            "context": [
+                "My",
+                "name",
+                "is",
+                "Alex.",
+                "I'm",
+                "passionate",
+                "about",
+                "technology",
+                "creative",
+                "projects."
+            ]
+        },
+        {
+            "structure": "Nice to meet you! I always enjoy connecting with people who share similar interests.",
+            "context": [
+                "Nice",
+                "to",
+                "meet",
+                "you!",
+                "I",
+                "always",
+                "enjoy",
+                "connecting",
+                "with",
+                "people",
+                "who",
+                "share",
+                "similar",
+                "interests."
+            ]
+        },
+        {
+            "structure": "What do you like to do in your free time? Any hobbies or special interests?",
+            "context": [
+                "What",
+                "do",
+                "you",
+                "like",
+                "to",
+                "do",
+                "in",
+                "your",
+                "free",
+                "time?",
+                "Any",
+                "hobbies",
+                "special",
+                "interests?"
+            ]
+        },
+        {
+            "structure": "I enjoy reading mystery novels, experimenting with new recipes in the kitchen, and sometimes I unwind by playing video games.",
+            "context": [
+                "I",
+                "enjoy",
+                "reading",
+                "mystery",
+                "novels,",
+                "experimenting",
+                "with",
+                "new",
+                "recipes",
+                "in",
+                "the",
+                "kitchen,",
+                "sometimes",
+                "I",
+                "unwind",
+                "by",
+                "playing",
+                "video",
+                "games."
+            ]
+        },
+        {
+            "structure": "What kind of music do you like to listen to when you're relaxing?",
+            "context": [
+                "What",
+                "kind",
+                "of",
+                "music",
+                "do",
+                "you",
+                "like",
+                "to",
+                "listen",
+                "to",
+                "when",
+                "you're",
+                "relaxing?"
+            ]
+        },
+        {
+            "structure": "I love listening to jazz when I'm reading and rock music when I need some energy. How about you?",
+            "context": [
+                "I",
+                "love",
+                "listening",
+                "to",
+                "jazz",
+                "when",
+                "I'm",
+                "reading",
+                "rock",
+                "music",
+                "when",
+                "I",
+                "need",
+                "some",
+                "energy.",
+                "How",
+                "about",
+                "you?"
+            ]
+        },
+        {
+            "structure": "What's your favorite food? I'm always on the lookout for new recipes to try.",
+            "context": [
+                "What's",
+                "your",
+                "favorite",
+                "food?",
+                "I'm",
+                "always",
+                "on",
+                "the",
+                "lookout",
+                "for",
+                "new",
+                "recipes",
+                "to",
+                "try."
+            ]
+        },
+        {
+            "structure": "I really enjoy pizza with extra toppings and homemade pasta. It's hard to beat a good comfort meal.",
+            "context": [
+                "I",
+                "enjoy",
+                "pizza",
+                "with",
+                "extra",
+                "toppings",
+                "homemade",
+                "pasta.",
+                "It's",
+                "hard",
+                "to",
+                "beat",
+                "a",
+                "good",
+                "comfort",
+                "meal."
+            ]
+        },
+        {
+            "structure": "Where are you from? I'd love to hear about your hometown.",
+            "context": [
+                "Where",
+                "are",
+                "you",
+                "from?",
+                "I'd",
+                "love",
+                "to",
+                "hear",
+                "about",
+                "your",
+                "hometown."
+            ]
+        },
+        {
+            "structure": "I'm from New York. The city never sleeps, but it's full of life and excitement.",
+            "context": [
+                "I'm",
+                "from",
+                "New",
+                "York.",
+                "The",
+                "city",
+                "never",
+                "sleeps,",
+                "it's",
+                "full",
+                "of",
+                "life",
+                "excitement."
+            ]
+        },
+        {
+            "structure": "What are you planning to do later today? Any exciting plans?",
+            "context": [
+                "What",
+                "are",
+                "you",
+                "planning",
+                "to",
+                "do",
+                "later",
+                "today?",
+                "Any",
+                "exciting",
+                "plans?"
+            ]
+        },
+        {
+            "structure": "I'm just relaxing at home and might catch up on some reading or start a new movie.",
+            "context": [
+                "I'm",
+                "just",
+                "relaxing",
+                "at",
+                "home",
+                "might",
+                "catch",
+                "up",
+                "on",
+                "some",
+                "reading",
+                "start",
+                "a",
+                "new",
+                "movie."
+            ]
+        },
+        {
+            "structure": "Do you have any pets? I'd love to hear about them!",
+            "context": [
+                "Do",
+                "you",
+                "have",
+                "any",
+                "pets?",
+                "I'd",
+                "love",
+                "to",
+                "hear",
+                "about",
+                "them!"
+            ]
+        },
+        {
+            "structure": "Yes, I have a cat named Whiskers. She's always curling up on my keyboard when I'm trying to work.",
+            "context": [
+                "Yes,",
+                "I",
+                "have",
+                "a",
+                "cat",
+                "named",
+                "Whiskers.",
+                "She's",
+                "always",
+                "curling",
+                "up",
+                "on",
+                "my",
+                "keyboard",
+                "when",
+                "I'm",
+                "trying",
+                "to",
+                "work."
+            ]
+        },
+        {
+            "structure": "What shows are you currently watching? Any recommendations?",
+            "context": [
+                "What",
+                "shows",
+                "are",
+                "you",
+                "watching?",
+                "Any",
+                "recommendations?"
+            ]
+        },
+        {
+            "structure": "I'm currently watching a fascinating sci-fi series. The characters are so well-developed!",
+            "context": [
+                "I'm",
+                "watching",
+                "a",
+                "fascinating",
+                "sci-fi",
+                "series.",
+                "The",
+                "characters",
+                "are",
+                "so",
+                "well-developed!"
+            ]
+        },
+        {
+            "structure": "What's your favorite movie genre? I'm always up for a good film.",
+            "context": [
+                "What's",
+                "your",
+                "favorite",
+                "movie",
+                "genre?",
+                "I'm",
+                "always",
+                "up",
+                "for",
+                "a",
+                "good",
+                "film."
+            ]
+        },
+        {
+            "structure": "I love action comedies! They keep me engaged while giving me a good laugh.",
+            "context": [
+                "I",
+                "love",
+                "action",
+                "comedies!",
+                "They",
+                "keep",
+                "me",
+                "engaged",
+                "while",
+                "giving",
+                "me",
+                "a",
+                "good",
+                "laugh."
+            ]
+        },
+        {
+            "structure": "How was your day so far? Did anything interesting happen?",
+            "context": [
+                "How",
+                "was",
+                "your",
+                "day",
+                "so",
+                "far?",
+                "Did",
+                "anything",
+                "interesting",
+                "happen?"
+            ]
+        },
+        {
+            "structure": "It was great! I managed to finish a big project I've been working on for weeks.",
+            "context": [
+                "It",
+                "was",
+                "great!",
+                "I",
+                "managed",
+                "to",
+                "finish",
+                "a",
+                "big",
+                "project",
+                "I've",
+                "been",
+                "working",
+                "on",
+                "for",
+                "weeks."
+            ]
+        },
+        {
+            "structure": "What are you currently working on? I'd love to hear about your projects.",
+            "context": [
+                "What",
+                "are",
+                "you",
+                "working",
+                "on?",
+                "I'd",
+                "love",
+                "to",
+                "hear",
+                "about",
+                "your",
+                "projects."
+            ]
+        },
+        {
+            "structure": "I'm writing some code right now. It's part of a larger project I'm building with friends.",
+            "context": [
+                "I'm",
+                "writing",
+                "some",
+                "code",
+                "right",
+                "now.",
+                "It's",
+                "part",
+                "of",
+                "a",
+                "larger",
+                "project",
+                "I'm",
+                "building",
+                "with",
+                "friends."
+            ]
+        },
+        {
+            "structure": "Would you like some help with your project? I'm happy to lend a hand.",
+            "context": [
+                "Would",
+                "you",
+                "like",
+                "some",
+                "help",
+                "with",
+                "your",
+                "project?",
+                "I'm",
+                "happy",
+                "to",
+                "lend",
+                "a",
+                "hand."
+            ]
+        },
+        {
+            "structure": "Sure! I'd appreciate that. I've been struggling with a few tricky bugs.",
+            "context": [
+                "Sure!",
+                "I'd",
+                "appreciate",
+                "that.",
+                "I've",
+                "been",
+                "struggling",
+                "with",
+                "a",
+                "few",
+                "tricky",
+                "bugs."
+            ]
+        },
+        {
+            "structure": "Can you explain this concept in simpler terms? I'm trying to understand better.",
+            "context": [
+                "Can",
+                "you",
+                "explain",
+                "this",
+                "concept",
+                "in",
+                "simpler",
+                "terms?",
+                "I'm",
+                "trying",
+                "to",
+                "understand",
+                "better."
+            ]
+        },
+        {
+            "structure": "Absolutely! I'd be happy to break it down step by step for you.",
+            "context": [
+                "Absolutely!",
+                "I'd",
+                "be",
+                "happy",
+                "to",
+                "break",
+                "it",
+                "down",
+                "step",
+                "by",
+                "step",
+                "for",
+                "you."
+            ]
+        },
+        {
+            "structure": "What's the weather like today in your area? I'm debating whether to go for a walk.",
+            "context": [
+                "What's",
+                "the",
+                "weather",
+                "like",
+                "today",
+                "in",
+                "your",
+                "area?",
+                "I'm",
+                "debating",
+                "whether",
+                "to",
+                "go",
+                "for",
+                "a",
+                "walk."
+            ]
+        },
+        {
+            "structure": "It's sunny and warm outside, perfect for a relaxing stroll in the park.",
+            "context": [
+                "It's",
+                "sunny",
+                "warm",
+                "outside,",
+                "perfect",
+                "for",
+                "a",
+                "relaxing",
+                "stroll",
+                "in",
+                "the",
+                "park."
+            ]
+        },
+        {
+            "structure": "Are you feeling hungry right now? I was thinking about grabbing a snack.",
+            "context": [
+                "Are",
+                "you",
+                "feeling",
+                "hungry",
+                "right",
+                "now?",
+                "I",
+                "was",
+                "thinking",
+                "about",
+                "grabbing",
+                "a",
+                "snack."
+            ]
+        },
+        {
+            "structure": "Yeah, I could go for something light like a sandwich or some fruit.",
+            "context": [
+                "Yeah,",
+                "I",
+                "could",
+                "go",
+                "for",
+                "something",
+                "light",
+                "like",
+                "a",
+                "sandwich",
+                "some",
+                "fruit."
+            ]
+        },
+        {
+            "structure": "Do you want to play a game? I always enjoy some friendly competition.",
+            "context": [
+                "Do",
+                "you",
+                "want",
+                "to",
+                "play",
+                "a",
+                "game?",
+                "I",
+                "always",
+                "enjoy",
+                "some",
+                "competition."
+            ]
+        },
+        {
+            "structure": "Sure, sounds fun! What kind of game do you have in mind?",
+            "context": [
+                "Sure,",
+                "sounds",
+                "fun!",
+                "What",
+                "kind",
+                "of",
+                "game",
+                "do",
+                "you",
+                "have",
+                "in",
+                "mind?"
+            ]
+        },
+        {
+            "structure": "Let's go for a walk and get some fresh air. It might clear our heads.",
+            "context": [
+                "Let's",
+                "go",
+                "for",
+                "a",
+                "walk",
+                "get",
+                "some",
+                "fresh",
+                "air.",
+                "It",
+                "might",
+                "clear",
+                "our",
+                "heads."
+            ]
+        },
+        {
+            "structure": "That's a great idea! I could use a little exercise and some sunshine.",
+            "context": [
+                "That's",
+                "a",
+                "great",
+                "idea!",
+                "I",
+                "could",
+                "use",
+                "a",
+                "little",
+                "exercise",
+                "some",
+                "sunshine."
+            ]
+        },
+        {
+            "structure": "Can you tell me a funny joke? I could use a good laugh right now.",
+            "context": [
+                "Can",
+                "you",
+                "tell",
+                "me",
+                "a",
+                "funny",
+                "joke?",
+                "I",
+                "could",
+                "use",
+                "a",
+                "good",
+                "laugh",
+                "right",
+                "now."
+            ]
+        },
+        {
+            "structure": "Why don't skeletons fight each other? Because they don't have the guts!",
+            "context": [
+                "Why",
+                "don't",
+                "skeletons",
+                "fight",
+                "each",
+                "other?",
+                "Because",
+                "they",
+                "don't",
+                "have",
+                "the",
+                "guts!"
+            ]
+        },
+        {
+            "structure": "What's your favorite color, and does it remind you of anything special?",
+            "context": [
+                "What's",
+                "your",
+                "favorite",
+                "color,",
+                "does",
+                "it",
+                "remind",
+                "you",
+                "of",
+                "anything",
+                "special?"
+            ]
+        },
+        {
+            "structure": "I really like the color blue because it reminds me of clear skies and calm ocean waves.",
+            "context": [
+                "I",
+                "like",
+                "the",
+                "color",
+                "blue",
+                "it",
+                "reminds",
+                "me",
+                "of",
+                "clear",
+                "skies",
+                "calm",
+                "ocean",
+                "waves."
+            ]
+        },
+        {
+            "structure": "Are you feeling okay? You seem a bit quieter than usual.",
+            "context": [
+                "Are",
+                "you",
+                "feeling",
+                "okay?",
+                "You",
+                "seem",
+                "a",
+                "bit",
+                "quieter",
+                "than",
+                "usual."
+            ]
+        },
+        {
+            "structure": "I'm feeling a bit tired but otherwise good. Just need some rest, I think.",
+            "context": [
+                "I'm",
+                "feeling",
+                "a",
+                "bit",
+                "tired",
+                "otherwise",
+                "good.",
+                "Just",
+                "need",
+                "some",
+                "rest,",
+                "I",
+                "think."
+            ]
+        },
+        {
+            "structure": "What's your main goal for today? Any major tasks you're trying to finish?",
+            "context": [
+                "What's",
+                "your",
+                "main",
+                "goal",
+                "for",
+                "today?",
+                "Any",
+                "major",
+                "tasks",
+                "you're",
+                "trying",
+                "to",
+                "finish?"
+            ]
+        },
+        {
+            "structure": "I want to finish my project by tonight so I can relax over the weekend.",
+            "context": [
+                "I",
+                "want",
+                "to",
+                "finish",
+                "my",
+                "project",
+                "by",
+                "tonight",
+                "so",
+                "I",
+                "can",
+                "relax",
+                "over",
+                "the",
+                "weekend."
+            ]
+        },
+        {
+            "structure": "Do you need any help with your work? I'm always happy to pitch in.",
+            "context": [
+                "Do",
+                "you",
+                "need",
+                "any",
+                "help",
+                "with",
+                "your",
+                "work?",
+                "I'm",
+                "always",
+                "happy",
+                "to",
+                "pitch",
+                "in."
+            ]
+        },
+        {
+            "structure": "Yes, I'd love some guidance on a tricky coding issue I've been stuck on.",
+            "context": [
+                "Yes,",
+                "I'd",
+                "love",
+                "some",
+                "guidance",
+                "on",
+                "a",
+                "tricky",
+                "coding",
+                "issue",
+                "I've",
+                "been",
+                "stuck",
+                "on."
+            ]
+        },
+        {
+            "structure": "How do you usually make your morning coffee? Any special method you prefer?",
+            "context": [
+                "How",
+                "do",
+                "you",
+                "make",
+                "your",
+                "morning",
+                "coffee?",
+                "Any",
+                "special",
+                "method",
+                "you",
+                "prefer?"
+            ]
+        },
+        {
+            "structure": "I like to use a French press with fresh ground coffee. The aroma is amazing!",
+            "context": [
+                "I",
+                "like",
+                "to",
+                "use",
+                "a",
+                "French",
+                "press",
+                "with",
+                "fresh",
+                "ground",
+                "coffee.",
+                "The",
+                "aroma",
+                "is",
+                "amazing!"
+            ]
+        },
+        {
+            "structure": "What time is it right now? I might need to wrap things up soon.",
+            "context": [
+                "What",
+                "time",
+                "is",
+                "it",
+                "right",
+                "now?",
+                "I",
+                "might",
+                "need",
+                "to",
+                "wrap",
+                "things",
+                "up",
+                "soon."
+            ]
+        },
+        {
+            "structure": "It's about 3:00 PM. There's still plenty of time to get things done.",
+            "context": [
+                "It's",
+                "about",
+                "3:00",
+                "PM.",
+                "There's",
+                "still",
+                "plenty",
+                "of",
+                "time",
+                "to",
+                "get",
+                "things",
+                "done."
+            ]
+        },
+        {
+            "structure": "Did you watch the game last night? I heard it was really intense!",
+            "context": [
+                "Did",
+                "you",
+                "watch",
+                "the",
+                "game",
+                "last",
+                "night?",
+                "I",
+                "heard",
+                "it",
+                "was",
+                "intense!"
+            ]
+        },
+        {
+            "structure": "Yes! The final play was incredible, I couldn't believe how close it was.",
+            "context": [
+                "Yes!",
+                "The",
+                "final",
+                "play",
+                "was",
+                "incredible,",
+                "I",
+                "couldn't",
+                "believe",
+                "how",
+                "close",
+                "it",
+                "was."
+            ]
+        },
+        {
+            "structure": "What's your dream vacation destination? Somewhere you'd love to visit?",
+            "context": [
+                "What's",
+                "your",
+                "dream",
+                "vacation",
+                "destination?",
+                "Somewhere",
+                "you'd",
+                "love",
+                "to",
+                "visit?"
+            ]
+        },
+        {
+            "structure": "I'd love to visit Japan someday. The culture and scenery seem amazing.",
+            "context": [
+                "I'd",
+                "love",
+                "to",
+                "visit",
+                "Japan",
+                "someday.",
+                "The",
+                "culture",
+                "scenery",
+                "seem",
+                "amazing."
+            ]
+        },
+        {
+            "structure": "Do you like cooking? I'm always looking for new meal ideas.",
+            "context": [
+                "Do",
+                "you",
+                "like",
+                "cooking?",
+                "I'm",
+                "always",
+                "looking",
+                "for",
+                "new",
+                "meal",
+                "ideas."
+            ]
+        },
+        {
+            "structure": "I enjoy making pasta dishes and experimenting with new sauces.",
+            "context": [
+                "I",
+                "enjoy",
+                "making",
+                "pasta",
+                "dishes",
+                "experimenting",
+                "with",
+                "new",
+                "sauces."
+            ]
+        },
+        {
+            "structure": "Are you busy right now or do you have some free time to chat?",
+            "context": [
+                "Are",
+                "you",
+                "busy",
+                "right",
+                "now",
+                "do",
+                "you",
+                "have",
+                "some",
+                "free",
+                "time",
+                "to",
+                "chat?"
+            ]
+        },
+        {
+            "structure": "Not really, what's up? I'm always happy to catch up.",
+            "context": [
+                "Not",
+                "really,",
+                "what's",
+                "up?",
+                "I'm",
+                "always",
+                "happy",
+                "to",
+                "catch",
+                "up."
+            ]
+        },
+        {
+            "structure": "Do you believe in aliens? I've been watching some interesting documentaries.",
+            "context": [
+                "Do",
+                "you",
+                "believe",
+                "in",
+                "aliens?",
+                "I've",
+                "been",
+                "watching",
+                "some",
+                "interesting",
+                "documentaries."
+            ]
+        },
+        {
+            "structure": "I think it's possible! The universe is huge, after all.",
+            "context": [
+                "I",
+                "think",
+                "it's",
+                "possible!",
+                "The",
+                "universe",
+                "is",
+                "huge,",
+                "after",
+                "all."
+            ]
+        },
+        {
+            "structure": "Can you help me with this math problem? I'm a little stuck.",
+            "context": [
+                "Can",
+                "you",
+                "help",
+                "me",
+                "with",
+                "this",
+                "math",
+                "problem?",
+                "I'm",
+                "a",
+                "little",
+                "stuck."
+            ]
+        },
+        {
+            "structure": "Sure! Let's walk through it step by step together.",
+            "context": [
+                "Sure!",
+                "Let's",
+                "walk",
+                "through",
+                "it",
+                "step",
+                "by",
+                "step",
+                "together."
+            ]
+        },
+        {
+            "structure": "What's your favorite animal? I've always loved learning about different creatures.",
+            "context": [
+                "What's",
+                "your",
+                "favorite",
+                "animal?",
+                "I've",
+                "always",
+                "loved",
+                "learning",
+                "about",
+                "different",
+                "creatures."
+            ]
+        },
+        {
+            "structure": "I love dogs! They're so loyal and full of energy.",
+            "context": [
+                "I",
+                "love",
+                "dogs!",
+                "They're",
+                "so",
+                "loyal",
+                "full",
+                "of",
+                "energy."
+            ]
+        },
+        {
+            "structure": "Have you ever tried skydiving? I hear it's an incredible rush.",
+            "context": [
+                "Have",
+                "you",
+                "ever",
+                "tried",
+                "skydiving?",
+                "I",
+                "hear",
+                "it's",
+                "an",
+                "incredible",
+                "rush."
+            ]
+        },
+        {
+            "structure": "Not yet, but it's on my bucket list for sure.",
+            "context": [
+                "Not",
+                "yet,",
+                "it's",
+                "on",
+                "my",
+                "bucket",
+                "list",
+                "for",
+                "sure."
+            ]
+        },
+        {
+            "structure": "What do you like to do for fun on the weekends?",
+            "context": [
+                "What",
+                "do",
+                "you",
+                "like",
+                "to",
+                "do",
+                "for",
+                "fun",
+                "on",
+                "the",
+                "weekends?"
+            ]
+        },
+        {
+            "structure": "I enjoy hiking in nature, especially on sunny days.",
+            "context": [
+                "I",
+                "enjoy",
+                "hiking",
+                "in",
+                "nature,",
+                "on",
+                "sunny",
+                "days."
+            ]
+        },
+        {
+            "structure": "Do you play any instruments? Music is such a great way to relax.",
+            "context": [
+                "Do",
+                "you",
+                "play",
+                "any",
+                "instruments?",
+                "Music",
+                "is",
+                "such",
+                "a",
+                "great",
+                "way",
+                "to",
+                "relax."
+            ]
+        },
+        {
+            "structure": "Yes, I play the guitar. It's my favorite way to unwind.",
+            "context": [
+                "Yes,",
+                "I",
+                "play",
+                "the",
+                "guitar.",
+                "It's",
+                "my",
+                "favorite",
+                "way",
+                "to",
+                "unwind."
+            ]
+        },
+        {
+            "structure": "What's your favorite holiday and why?",
+            "context": [
+                "What's",
+                "your",
+                "favorite",
+                "holiday",
+                "why?"
+            ]
+        },
+        {
+            "structure": "I love Halloween! The costumes, decorations, and spooky vibes are so much fun.",
+            "context": [
+                "I",
+                "love",
+                "Halloween!",
+                "The",
+                "costumes,",
+                "decorations,",
+                "spooky",
+                "vibes",
+                "are",
+                "so",
+                "much",
+                "fun."
+            ]
+        },
+        {
+            "structure": "Hello!",
+            "context": [
+                "Hello!"
+            ]
+        },
+        {
+            "structure": "Well I've been dealing with my divorce recently, but overall I've been doing alright",
+            "context": [
+                "Well",
+                "I've",
+                "been",
+                "dealing",
+                "with",
+                "my",
+                "divorce",
+                "recently,",
+                "overall",
+                "I've",
+                "been",
+                "doing",
+                "alright"
+            ]
+        }
+    ]
+}
