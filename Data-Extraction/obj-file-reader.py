@@ -1,3 +1,4 @@
+
 def grab_obj_data(obj_path):
     vertices = []
     faces = []
