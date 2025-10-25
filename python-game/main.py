@@ -10,6 +10,7 @@ from player_controller import player
 from tiles import tile_controller
 from camera import cam
 from setup import screen
+from msg_json import update_json
 
 pygame.init()
 pygame.display.set_caption("Nomori")
@@ -24,6 +25,7 @@ tile_controller.add_tile()
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
+            update_json("python-game/data/tiles.json", [])
             pygame.quit()
             sys.exit()
         if event.type == pygame.MOUSEBUTTONDOWN:
