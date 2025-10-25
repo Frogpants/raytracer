@@ -1,10 +1,10 @@
 from tools import snap
 from camera import cam
 from detect import on_screen
-from optimization import get_image
+from optimization import get_image, get_rect
 from msg_json import read_json, update_json
 from setup import screen, img_path
-from mouse_data import mouse_x, mouse_y, mouse_down
+import mouse_data
 from editor import tile_data
 from screen_data import half_width, half_height
 
@@ -33,8 +33,13 @@ class Tiles:
         for tile in self.tile_data:
             tx, ty = tile["x"] - cam.x, tile["y"] - cam.y
             img = self.img_data[tile["type"]]
-            # if (on_screen(tx, ty)):
-            screen.blit(get_image(img), (tx, ty))
+            # blit the image (falls back to rect if image missing)
+            try:
+                surface = get_image(img)
+                screen.blit(surface, (int(tx), int(ty)))
+            except Exception:
+                # fallback to debug rect if loading/blitting fails
+                pygame.draw.rect(screen, (255, 255, 255), get_rect(int(tx), int(ty)))
             if (tile["collidable"]):
                 package = self.tile_package(tx, ty)
                 self.collision_data.append(package)
@@ -43,11 +48,14 @@ class Tiles:
                 self.interact_data.append(package)
     
     def editor(self):
-        tx, ty = snap(mouse_x + cam.x, 32) - cam.x, snap(mouse_y + cam.y, 32) - cam.y
+        tx, ty = snap(mouse_data.mouse_x + cam.x, 32) - cam.x, snap(mouse_data.mouse_y + cam.y, 32) - cam.y
         img = "python-game/imgs/tile1.png"
-        # screen.blit(get_image(img), (tx, ty))
-        pygame.draw.rect(screen, (0, 200, 255), )
-        if mouse_down:
+        try:
+            surface = get_image(img)
+            screen.blit(surface, (int(tx), int(ty)))
+        except Exception:
+            pygame.draw.rect(screen, (255, 255, 255), get_rect(int(tx), int(ty)))
+        if mouse_data.mouse_down:
             tile_data["x"] = tx + cam.x
             tile_data["y"] = ty + cam.y
             self.add_tile(**tile_data)

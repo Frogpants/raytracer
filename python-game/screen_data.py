@@ -3,9 +3,11 @@ import pygame
 pygame.init()
 
 info = pygame.display.Info()
-screen_width, screen_height = info.current_w, info.current_h
-half_width, half_height = screen_width/2, screen_height/2
+# prefer ints for pixel coordinates
+screen_width, screen_height = int(info.current_w), int(info.current_h)
+half_width, half_height = screen_width // 2, screen_height // 2
 
 def set_screen_size(w, h):
-    screen_width, screen_height = w, h
-    half_width, half_height = w/2, h/2
+    global screen_width, screen_height, half_width, half_height
+    screen_width, screen_height = int(w), int(h)
+    half_width, half_height = screen_width // 2, screen_height // 2

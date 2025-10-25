@@ -1,7 +1,5 @@
 import pygame
 
-pygame.init()
-
 image_cache = {}
 
 def get_image(path):
