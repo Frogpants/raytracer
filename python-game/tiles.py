@@ -45,7 +45,8 @@ class Tiles:
     def editor(self):
         tx, ty = snap(mouse_x + cam.x, 32) - cam.x, snap(mouse_y + cam.y, 32) - cam.y
         img = "python-game/imgs/tile1.png"
-        screen.blit(get_image(img), (tx, ty))
+        # screen.blit(get_image(img), (tx, ty))
+        pygame.draw.rect(screen, (0, 200, 255), )
         if mouse_down:
             tile_data["x"] = tx + cam.x
             tile_data["y"] = ty + cam.y
