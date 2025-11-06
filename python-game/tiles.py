@@ -9,6 +9,7 @@ from editor import tile_data
 from screen_data import half_width, half_height
 
 import pygame
+import random as r
 
 pygame.init()
 
@@ -49,7 +50,7 @@ class Tiles:
     
     def editor(self):
         tx, ty = snap(mouse_data.mouse_x + cam.x, 32) - cam.x, snap(mouse_data.mouse_y + cam.y, 32) - cam.y
-        img = "python-game/imgs/tile1.png"
+        img = "python-game/imgs/tile4.png"
         try:
             surface = get_image(img)
             screen.blit(surface, (int(tx), int(ty)))
@@ -58,6 +59,7 @@ class Tiles:
         if mouse_data.mouse_down:
             tile_data["x"] = tx + cam.x
             tile_data["y"] = ty + cam.y
+            tile_data["type"] = r.randint(0, 3)
             self.add_tile(**tile_data)
             update_json(self.json_path, self.tile_data)
 
